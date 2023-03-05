@@ -1,18 +1,34 @@
+#------------------------ REFLETOR -----------------------#
+
 https://mgbrasil-m17.duckdns.org
-
-Programar Esp32:  https://espressif.github.io/esptool-js/
-
-
-boot.bin         0xe000
-bootloader.bin   0x1000
-M17AG_AD....bin  0x10000
-partitions.bin   0x8000
-
-SSD: APRSTH
-Senha: aprsthnetwork
 
 M17-MGB
 165.73.249.152
 17000
 
 M17 Module/ROOM: A
+
+A = QSOs
+T = Teste
+
+#-------------------- PROGRAMADOR IDE WEB -------------------#
+
+Programar Esp32:  
+
+https://espressif.github.io/esptool-js/
+
+
+boot.bin             0xe000
+bootloader.bin       0x1000
+M17AG_ADC_(x).bin    0x10000
+partitions.bin       0x8000
+
+#--------------------------- WIFI ----------------------------#
+
+Wifi cliente ESP32:
+
+SSD: APRSTH
+Senha: aprsthnetwork
+
+#-------------------------------------------------------------#
+
