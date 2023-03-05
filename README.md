@@ -1,4 +1,4 @@
-# m17hotspot - Ronualdo PU4RON - Brasil
+# M17Hotspot - Ronualdo PU4RON - Brasil
 
 M17-MGB 
 
