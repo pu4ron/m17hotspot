@@ -1,5 +1,5 @@
-# M17Hotspot - Ronualdo PU4RON - Brasil
+# M17Hotspot - Ronualdo PU4RON 
 
-M17-MGB 
+Refletor: M17-MGB 
 
-https://mgbrasil-m17.duckdns.org
+Dashboard: https://mgbrasil-m17.duckdns.org
